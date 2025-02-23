@@ -69,9 +69,4 @@ This project analyzes laptop prices based on various factors such as screen size
 - Tools Used: **Power BI, DAX, Power Query, Python**
 - Contact: [https://www.linkedin.com/in/mohamed-elashry-b67299249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
----
-
-### 🚀 Future Improvements
-- Adding more filtering options for user interactivity.
-- Incorporating historical pricing trends.
-- Expanding dataset with additional laptop brands and models.
+--
