@@ -18,10 +18,10 @@ This project analyzes laptop prices based on various factors such as screen size
 
 ## 📂 Files Available
 - [`laptop_prices.csv`](./laptop_prices.csv) - The dataset used for analysis.
-- [`Google Colab Notebook`](https://colab.research.google.com/drive/1PPja0Dtif_jE1hLwCC_R6b3IbXw_FZX_) - Run the analysis interactively.
+- [`Google Colab Notebook`](https://colab.research.google.com/drive/1PPja0Dtif_jE1hLwCC_R6b3IbXw_FZX_) - Run the data processing .
 - [`Power BI Screenshot`](./Screenshot (43).png) - Visual representation of data analysis.
 
-## 📈 Key Insights & Visualizations
+## 📈 Key Insights & Visualizations & power bi
 
 ### 1️⃣ **Price Distribution by Screen Size**
 - Shows the relationship between laptop screen sizes and pricing.
@@ -62,7 +62,7 @@ This project analyzes laptop prices based on various factors such as screen size
 - Download the dataset from [`laptop_prices.csv`](./laptop_prices.csv).
 - Open the **Power BI file (.pbix)** to explore interactive visuals.
 - Modify filters and parameters to analyze different aspects of laptop pricing.
-- Run the analysis interactively using [`Google Colab Notebook`](https://colab.research.google.com/drive/1PPja0Dtif_jE1hLwCC_R6b3IbXw_FZX_).
+- Run the data processing using [`Google Colab Notebook`](https://colab.research.google.com/drive/1PPja0Dtif_jE1hLwCC_R6b3IbXw_FZX_).
 
 ## 📢 Author & Contributions
 - Created by: [Mohamed Elashry]
