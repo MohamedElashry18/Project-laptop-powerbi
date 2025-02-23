@@ -48,7 +48,6 @@ This project analyzes laptop prices based on various factors such as screen size
 - Larger RAM sizes generally lead to higher prices.
 
 ## ⚙️ Power BI Techniques Used
-- **DAX Measures** for aggregations and custom calculations.
 - **Power Query** for data transformation and cleaning.
 - **Interactive Visualizations** to explore pricing trends dynamically.
 
