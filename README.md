@@ -1,4 +1,3 @@
-# Project-laptop-powerbi
 # Laptop Prices Analysis
 
 ## 📌 Project Overview
